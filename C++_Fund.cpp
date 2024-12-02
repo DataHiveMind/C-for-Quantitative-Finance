@@ -20,5 +20,5 @@ int lesson_3(){
 }
 
 int lesson_4(){
-
+    int time = 0;
 }
